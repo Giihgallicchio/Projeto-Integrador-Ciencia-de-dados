@@ -1,2 +1,2 @@
 # Projeto-Integrador-Ciencia-de-dados
-Projeto Integrador: Desenvolvimento Low Code em Ciência de Dados
+Projeto integrador: desenvolvimento low code em ciência de dados com os dados tratados
