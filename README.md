@@ -6,8 +6,8 @@
 
 
 ## | Autora
-Giovanna Galichio  
-Estudante de Análise e Desenvolvimento de Sistemas  
+- Giovanna Galichio  
+- Estudante de Análise e Desenvolvimento de Sistemas  
 
 
 ## | Descrição do Projeto
