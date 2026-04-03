@@ -61,13 +61,11 @@ Os dados foram tratados utilizando Python e Pandas, seguindo o processo de ETL:
 
 
 ## | Estrutura do Projeto
-<ul>
-    <li>Projeto_Integrador_Ciencia_de_dados.ipynb</li>
-    <li>survey_Dados_Tratados.csv</li>
-    <li>README.md</li>
-    <li>LICENSE</li>
-</ul>
 
+- Projeto_Integrador_Ciencia_de_dados.ipynb
+- survey_Dados_Tratados.csv
+- README.md
+- LICENSE
 
 ## | Resultado
 
