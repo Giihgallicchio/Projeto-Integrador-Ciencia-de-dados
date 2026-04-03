@@ -1,4 +1,4 @@
-# | PROJETO INTEGRADOR - CIÊNCIA DE DADOS
+# | PROJETO INTEGRADOR - CIÊNCIA DE DADOS/LOW CODE 
 
 ## | Tema do Projeto
 <h1>Saúde Mental no Trabalho no Setor de Tecnologia</h1>
