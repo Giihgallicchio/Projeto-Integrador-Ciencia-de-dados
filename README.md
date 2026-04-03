@@ -37,25 +37,20 @@
 
 ## | Processamento de Dados (ETL)
 
-<p>Os dados foram tratados utilizando Python e a biblioteca Pandas, seguindo o processo de ETL:</p>
+Os dados foram tratados utilizando Python e Pandas, seguindo o processo de ETL:
 
-<ul>
-    <li><strong>Extração:</strong> Leitura do arquivo original <code>survey.csv</code>.</li>
+- **Extração:** Leitura do arquivo original `survey.csv`.
 
-    <li><strong>Transformação:</strong>
-        <ul>
-            <li><strong>Tradução completa:</strong> Todo o dataset foi traduzido para português (colunas e valores);</li>
-            <li><strong>Padronização:</strong> Conversão de valores como "Yes/No" para "Sim/Não";</li>
-            <li><strong>Tratamento de nulos:</strong> Preenchimento com "S/N" ou "Sem Informações";</li>
-            <li><strong>Limpeza de dados:</strong> Correção de inconsistências (idade, estados inválidos, categorias incorretas);</li>
-            <li><strong>Padronização geográfica:</strong> Organização de países e estados;</li>
-            <li><strong>Formatação de datas:</strong> Ajuste da coluna de data;</li>
-            <li><strong>Remoção de colunas irrelevantes:</strong> Exclusão de campos desnecessários como comentários;</li>
-        </ul>
-    </li>
+- **Transformação:**
+  - Tradução completa do dataset (colunas e valores)
+  - Padronização ("Yes/No" → "Sim/Não")
+  - Tratamento de nulos ("S/N" ou "Sem Informações")
+  - Limpeza de dados inconsistentes (idade, estados, categorias)
+  - Padronização de países e estados
+  - Ajuste da coluna de data
+  - Remoção de colunas desnecessárias (ex: comentários)
 
-    <li><strong>Carga:</strong> Exportação do dataset tratado para <code>survey_Dados_Tratados.csv</code>.</li>
-</ul>
+- **Carga:** Exportação para `survey_Dados_Tratados.csv`.
 
 
 ## | Ideia do Projeto
