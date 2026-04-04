@@ -1,2 +1,2 @@
-*.ipynb linguist-language=Pandas
+*.ipynb linguist-language=Python
 *.ipynb linguist-detectable=true
