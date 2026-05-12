@@ -1,16 +1,16 @@
-# | PROJETO INTEGRADOR - CIÊNCIA DE DADOS/LOW CODE 
+#  PROJETO INTEGRADOR - CIÊNCIA DE DADOS/LOW CODE 
 
-## | Tema do Projeto
+##  Tema do Projeto
 <h1>Saúde Mental no Trabalho no Setor de Tecnologia</h1>
 
 
 
-## | Autora
+##  Autora
 - Giovanna Galichio  
 
 
 
-## | Descrição do Projeto
+##  Descrição do Projeto
 
 <p>Este projeto tem como foco a análise e o tratamento de dados relacionados à saúde mental no ambiente de trabalho, especialmente no setor de tecnologia. Com o aumento da pressão por produtividade e a constante necessidade de atualização profissional, questões como estresse, ansiedade e outros problemas psicológicos têm se tornado cada vez mais comuns.</p>
 
@@ -18,7 +18,7 @@
 
 
 
-## | Objetivo da Análise
+##  Objetivo da Análise
 
 <p>O objetivo principal é preparar e estruturar os dados para análise, permitindo:</p>
 
@@ -31,7 +31,7 @@
 
 
 
-## | Base de Dados
+##  Base de Dados
 
 <p>Fonte: <a href="https://www.kaggle.com/code/chaitanya99/mental-health-in-tech-survey-eda" target="_blank">Kaggle</a></p>
 
@@ -39,11 +39,11 @@
 
 
 
-## | Processamento de Dados (ETL)
+##  Processamento de Dados (ETL)
 
 Os dados foram tratados utilizando Python e Pandas, seguindo o processo de ETL:
 
-- **Extração:** Leitura do arquivo original `survey.csv`.
+- **Arquivo Original:** Leitura do arquivo original `survey.csv`.
 
 - **Transformação:**
   - Tradução completa do dataset (colunas e valores)
@@ -54,11 +54,11 @@ Os dados foram tratados utilizando Python e Pandas, seguindo o processo de ETL:
   - Ajuste da coluna de data
   - Remoção de colunas desnecessárias (ex: comentários)
 
-- **Carga:** Exportação para `survey_Dados_Tratados.csv`.
+- **Aquivo Tratado:** Exportação para `survey_Dados_Tratados.csv`.
 
 
 
-## | Ideia do Projeto
+##  Ideia do Projeto
 
 <p>O foco do projeto foi garantir a qualidade e organização dos dados para possibilitar análises futuras e criação de dashboards.</p>
 
@@ -66,7 +66,7 @@ Os dados foram tratados utilizando Python e Pandas, seguindo o processo de ETL:
 
 
 
-## | Estrutura do Projeto
+##  Estrutura do Projeto
 
 - Projeto_Integrador_Ciencia_de_dados.ipynb
 - survey.csv
@@ -76,13 +76,13 @@ Os dados foram tratados utilizando Python e Pandas, seguindo o processo de ETL:
 
 
 
-## | Resultado
+##  Resultado
 
 <p>Ao final do projeto, foi gerado um dataset limpo, padronizado e totalmente traduzido, pronto para análise exploratória e criação de dashboards.</p>
 
 
 
-## | Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python  
 - Pandas  
